@@ -1,2 +1,11 @@
+<<<<<<< HEAD
+Este es mi primer archivo en git.
+cambio en la rama dev.
+=======
 hola como estas git
+<<<<<<< HEAD
 ahora haz una nueva linea desde mi copia local
+=======
+Estoy en la rama dev
+>>>>>>> dev
+>>>>>>> 228b63aeac2f0a156e016f06dcf9c0809d742cac
