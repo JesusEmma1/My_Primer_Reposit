@@ -1,1 +1,2 @@
 hola como estas git
+ahora haz una nueva linea desde mi copia local
